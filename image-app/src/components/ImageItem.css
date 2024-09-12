@@ -1,0 +1,14 @@
+/* src/components/ImageItem.css */
+.image-item {
+    cursor: pointer;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .image-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
